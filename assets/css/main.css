@@ -796,17 +796,13 @@ section,
   text-align: center; /* Center text within the container */
 }
 
-.hero .btn-getstarted {
-  margin: 20px; /* Add some space to the right and bottom of each button */
-}
-
 .hero .btn-getstarted,
 .hero .btn-getstarted:focus {
   color: var(--contrast-color);
   background: var(--accent-color);
   font-size: 14px;
+  margin: 20px; /* Add some space to the right and bottom of each button */
   padding: 8px 26px;
-  margin: 0;
   border-radius: 4px;
   transition: 0.3s;
 }
