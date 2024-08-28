@@ -796,6 +796,10 @@ section,
   text-align: center; /* Center text within the container */
 }
 
+.hero .btn-getstarted {
+  margin: 20px; /* Add some space to the right and bottom of each button */
+}
+
 .hero .btn-getstarted,
 .hero .btn-getstarted:focus {
   color: var(--contrast-color);
