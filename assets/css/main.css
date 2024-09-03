@@ -840,6 +840,12 @@ section,
     font-size: 32px;
   }
 
+ .hero .btn-getstarted {
+    margin: 10px 0; /* Adjust margin to control spacing between buttons */
+    width: 100%; /* Make buttons full-width on smaller screens */
+    max-width: 300px; /* Optional: Limit the width to a maximum */
+  }
+  
   .hero p {
     font-size: 18px;
   }
